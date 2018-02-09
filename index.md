@@ -15,7 +15,7 @@ sou um estudante que não sei o que fazer da vida.
 
 ## Artes
 
-![imagem 1](https://www.canstockphoto.com/german-shepherd-head-18265851.html)
+![imagem 1](https://pt.dreamstime.com/illustration/pixel-puppy.html)
 
 ![](catioro.jpg)
 
