@@ -15,7 +15,7 @@ sou um estudante que não sei o que fazer da vida.
 
 ## Artes
 
-![imagem 1](https://pt.dreamstime.com/illustration/pixel-puppy.html)
+![imagem 1](https://www.brik.co/blogs/pixel-art/pug-pixel-art)
 
 ![](catioro.jpg)
 
