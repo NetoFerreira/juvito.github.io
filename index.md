@@ -15,6 +15,8 @@ sou um estudante que não sei o que fazer da vida.
 
 ## Artes
 
+! [imagem 1] (https://www.google.com.br/search?q=pixel+art+cachorro&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjT4NK78JjZAhVChJAKHZBJDDMQ_AUICigB&biw=1920&bih=974#imgrc=JAVHstz3GLWm9M:)
+
 ## Apresentações
 
  * aula de música  
