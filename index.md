@@ -10,8 +10,7 @@ sou um estudante que não sei o que fazer da vida.
 # Produções
 
 ## Games
-[jogo 1](https://lucas-manolo.github.io/Bom%20Apetite!/)  
-![](bomapetite.png)
+[![](bomapetite.png)](https://lucas-manolo.github.io/Bom%20Apetite!/)  
 [jogo 3](https://lucas-manolo.github.io/Invoke/)
 
 
