@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Criando **MINHA**, _página_, ~~principal~~ .
+Criando **MINHA PÁGINA PRINCIPAL**.
 
 # Quem sou eu?  
 sou um estudante que não sei o que fazer da vida.
