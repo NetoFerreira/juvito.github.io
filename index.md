@@ -49,9 +49,6 @@ sou um estudante que não sei o que fazer da vida.
 * * *
 ## Apresentações
 
- 
- 
-## Artes feita para os jogos
 
 
 ## Animaçoes
