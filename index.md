@@ -5,7 +5,7 @@ layout: default
 Criando **MINHA PÁGINA PRINCIPAL**.
 
 # Quem sou eu?  
-sou um estudante que não sei o que fazer da vida.
+sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vida. Curso o 3º ano de Jogos Digitais.
 
 # Produções
 
@@ -47,9 +47,6 @@ sou um estudante que não sei o que fazer da vida.
 
 
 * * *
-## Apresentações
-
-
 
 ## Animaçoes
 
