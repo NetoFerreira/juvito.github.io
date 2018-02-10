@@ -22,7 +22,7 @@ sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vid
 ![](catioro.jpg)
 * * *
 * * *
-**primeiro jogo**
+**algumas artes do primeiro jogo**
  ![](CENÁRIO.png)  
  ![](E.png)  
  ![](FOGO.png)  
