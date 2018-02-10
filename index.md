@@ -11,7 +11,7 @@ sou um estudante que não sei o que fazer da vida.
 
 ## Games
 [![](bomapetite.png)](https://lucas-manolo.github.io/Bom%20Apetite!/)  
-[jogo 3](https://lucas-manolo.github.io/Invoke/)
+[![](invoke.png)](https://lucas-manolo.github.io/Invoke/)
 
 
 
