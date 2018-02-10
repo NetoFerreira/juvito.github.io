@@ -16,22 +16,22 @@ sou um estudante que não sei o que fazer da vida.
 
 
 ## Artes
-
+* * *
 ![imagem 1](https://thumbs.dreamstime.com/t/vector-o-c%C3%A3o-da-arte-do-pixel-em-um-fundo-branco-66505186.jpg)
 
 ![](catioro.jpg)
+* * *
+
 
 
 ## Apresentações
 
- * aula de música  
- * aula de teatro  
- * aula de jogos  
- 1 Marcelo  
- 2 boy Durva  
+ 
  
 ## Artes feita para os jogos
 
+
+## Animaçoes
 
 
 
