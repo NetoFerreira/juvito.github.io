@@ -21,6 +21,7 @@ sou um estudante que não sei o que fazer da vida.
 
 ![](catioro.jpg)
 * * *
+* * *
 **primeiro jogo**
  ![](CENÁRIO.png)  
  ![](E.png)  
@@ -28,21 +29,24 @@ sou um estudante que não sei o que fazer da vida.
  ![](Pizza_parado.png)  
  ![](Q.png)  
  ![](R.png)  
- ![](TELA DE FIM DE JOGO.png)  
+ ![](TELA-DE-FIM-DE-JOGO.png)  
  ![](W.png)  
  ![](WINNER.png)  
- ![](venha andando2.png)  
- ![](venha parado2.png)  
+ ![](venha-andando2.png)  
+ ![](venha-parado2.png)  
  ![](faca.png)  
- ![](onda de ketshup (invertido) .png)  
- ![](placa dos personagens - churrasco.png)  
- ![](placa dos personagens - milho.png)  
- ![](placa dos personagens - pizza.png)  
- ![](placa dos personagens - sushi.png)    
+ ![](onda-de-ketshup.png)  
+ ![](placa-dos-personagens-churrasco.png)  
+ ![](placa-dos-personagens-milho.png)  
+ ![](placa-dos-personagens-pizza.png)  
+ ![](placa-dos-personagens-sushi.png)    
  ![](sushi1.png)  
+ * * *
+ * * *
 **terceiro jogo**
 
 
+* * *
 ## Apresentações
 
  
