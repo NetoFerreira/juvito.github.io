@@ -22,35 +22,23 @@ sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vid
 ![](catioro.jpg)
 * * *
 * * *
-**algumas artes do primeiro jogo**
- ![](CENÁRIO.png)  
- ![](E.png)  
- ![](FOGO.png)  
- ![](Pizza_parado.png)  
- ![](Q.png)  
- ![](R.png)  
- ![](TELA-DE-FIM-DE-JOGO.png)  
- ![](W.png)  
- ![](WINNER.png)  
- ![](venha-andando2.png)  
- ![](venha-parado2.png)  
- ![](faca.png)  
- ![](onda-de-ketshup.png)  
- ![](placa-dos-personagens-churrasco.png)  
- ![](placa-dos-personagens-milho.png)  
- ![](placa-dos-personagens-pizza.png)  
- ![](placa-dos-personagens-sushi.png)    
- ![](sushi1.png)  
- * * *
- * * *
-**terceiro jogo**
-
-
+**algumas artes do primeiro jogo**    
+![](CENÁRIO.png)  
+![](TELA-DE-FIM-DE-JOGO.png)  
+![](WINNER.png)  
+![](Pizza_parado.png)  
+![](sushi1.png)  
+![](milho-parado)   
+![](placa-dos-personagens-churrasco.png)  
+![](placa-dos-personagens-milho.png)  
+![](placa-dos-personagens-pizza.png)  
+![](placa-dos-personagens-sushi.png)  
+![](FOGO.png)  
+![](venha-andando2.png)  
+![](onda-de-ketshup.png)   
 * * *
 
 ## Animaçoes
-
-
 
 * * *
 ** negrito  
