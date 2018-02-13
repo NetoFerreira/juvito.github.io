@@ -28,7 +28,7 @@ sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vid
 ![](WINNER.png)  
 ![](Pizza_parado.png)  
 ![](sushi1.png)  
-![](milho-parado)   
+![](milho-parado.png)   
 ![](placa-dos-personagens-churrasco.png)  
 ![](placa-dos-personagens-milho.png)  
 ![](placa-dos-personagens-pizza.png)  
