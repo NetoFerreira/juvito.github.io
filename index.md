@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Portifolio
+# Meu Portifolio
 
 # Quem sou eu?  
 sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vida. Curso o 3º ano de Jogos Digitais.
