@@ -17,9 +17,7 @@ sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vid
 
 ## Artes
 * * *
-![imagem 1](https://thumbs.dreamstime.com/t/vector-o-c%C3%A3o-da-arte-do-pixel-em-um-fundo-branco-66505186.jpg)
-
-![](catioro.jpg)
+![imagem 1](https://thumbs.dreamstime.com/t/vector-o-c%C3%A3o-da-arte-do-pixel-em-um-fundo-branco-66505186.jpg) ![](catioro.jpg)
 * * *
 * * *
 **algumas artes do primeiro jogo**    
