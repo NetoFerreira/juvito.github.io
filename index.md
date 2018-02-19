@@ -21,10 +21,7 @@ sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vid
 * * *
 * * *
 **algumas artes do primeiro jogo**    
-![](CENÁRIO.png)  
-![](TELA-DE-FIM-DE-JOGO.png)  
-![](WINNER.png)  
-![](Pizza_parado.png) ![](sushi1.png) ![](milho-parado.png) ![](placa-dos-personagens-churrasco.png) ![](placa-dos-personagens-milho.png) ![](placa-dos-personagens-pizza.png) ![](placa-dos-personagens-sushi.png) ![](FOGO.png) ![](venha-andando2.png) ![](onda-de-ketshup.png)   
+![](fim.png)   
 * * *
 
 ## Animaçoes
