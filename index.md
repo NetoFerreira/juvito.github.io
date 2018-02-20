@@ -23,6 +23,8 @@ Esses são alguns jogos que fiz, juntamente com alguns colegas.
 * * *
 
 ## Animaçoes
+Essa foi uma animação que fiz de Pixel Arte, achei legal :v  
+![](aniPixel.png)
 
 * * *
 ** negrito  
