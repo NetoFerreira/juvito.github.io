@@ -5,6 +5,7 @@ layout: default
 # Meu Portifolio
 
 # Quem sou eu?  
+![](jv.jpg)
 sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vida. Curso o 3º ano de Jogos Digitais.  
 email: jv12345592@gmail.com  
 
