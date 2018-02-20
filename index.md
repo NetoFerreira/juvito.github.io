@@ -5,7 +5,8 @@ layout: default
 # Meu Portifolio
 
 # Quem sou eu?  
-sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vida. Curso o 3º ano de Jogos Digitais.
+sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vida. Curso o 3º ano de Jogos Digitais.  
+email: jv12345592@gmail.com  
 
 # Produções
 
@@ -27,10 +28,10 @@ Esses são alguns jogos que fiz, juntamente com alguns colegas.
 ![](carro.png) ![](bomba.png) ![](tv.png)
 * * *
 **algumas artes do terceiro jogo**  
-![]() ![]()  
-![]() ![]()  
+![](base.png) ![](meteoro.png)  
+![](energia.png) ![](voador.png)  
 
-## Animaçoes
+## Animações
 Essa foi uma animação que fiz de Pixel Arte, achei legal :v  
 ![](aniPixel.png)
 
