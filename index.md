@@ -19,7 +19,7 @@ Esses são alguns jogos que fiz, juntamente com alguns colegas.
 ## Artes
 * * *
 **algumas artes do primeiro jogo**    
-![](fim.png)   
+![](login.png) ![](fim.png)   
 ![](Pizza_deLado.png) ![](milho.png) ![](sushi.png)
 * * *
 
