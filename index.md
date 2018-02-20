@@ -22,6 +22,9 @@ Esses são alguns jogos que fiz, juntamente com alguns colegas.
 ![](login.png) ![](fim.png)   
 ![](Pizza_deLado.png) ![](milho.png) ![](sushi.png)
 * * *
+**algumas artes do segundo jogo**  
+![](botão.png) ![](oculos.png) ![](FITA.png)  
+![](carro.png) ![](bomba.png) ![](tv.png)
 
 ## Animaçoes
 Essa foi uma animação que fiz de Pixel Arte, achei legal :v  
