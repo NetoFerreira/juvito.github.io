@@ -8,12 +8,15 @@ layout: default
 ![](jv.png) **_créditos ao meu brodi Neto, tmj <3_**  
 sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vida. Curso o 3º ano de Jogos Digitais.  
 email: jv12345592@gmail.com  
+telefone: (084) 9 9204-4778  
 
 # Produções
 
 ## Games
-Esses são alguns jogos que fiz, juntamente com alguns colegas.
+Esses são alguns jogos que fiz, juntamente com alguns colegas.  
+Bom Apetite.
 [![](bomapetite.png)](https://lucas-manolo.github.io/Bom%20Apetite!/)  
+Invoke  
 [![](invoke.png)](https://lucas-manolo.github.io/Invoke/)
 
 
