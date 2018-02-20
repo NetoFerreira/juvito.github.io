@@ -5,7 +5,7 @@ layout: default
 # Meu Portifolio
 
 # Quem sou eu?  
-![](jv.png) --créditos ao meu brodi Neto, tmj <3--  
+![](jv.png) **_créditos ao meu brodi Neto, tmj <3_**  
 sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vida. Curso o 3º ano de Jogos Digitais.  
 email: jv12345592@gmail.com  
 
