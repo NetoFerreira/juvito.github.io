@@ -10,15 +10,13 @@ sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vid
 # Produções
 
 ## Games
+Esses são alguns jogos que fiz, juntamente com alguns colegas.
 [![](bomapetite.png)](https://lucas-manolo.github.io/Bom%20Apetite!/)  
 [![](invoke.png)](https://lucas-manolo.github.io/Invoke/)
 
 
 
 ## Artes
-* * *
-![imagem 1](https://thumbs.dreamstime.com/t/vector-o-c%C3%A3o-da-arte-do-pixel-em-um-fundo-branco-66505186.jpg) ![](catioro.jpg)
-* * *
 * * *
 **algumas artes do primeiro jogo**    
 ![](fim.png)   
