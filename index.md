@@ -25,6 +25,10 @@ Esses são alguns jogos que fiz, juntamente com alguns colegas.
 **algumas artes do segundo jogo**  
 ![](botão.png) ![](oculos.png) ![](FITA.png)  
 ![](carro.png) ![](bomba.png) ![](tv.png)
+* * *
+**algumas artes do terceiro jogo**  
+![]() ![]()  
+![]() ![]()  
 
 ## Animaçoes
 Essa foi uma animação que fiz de Pixel Arte, achei legal :v  
