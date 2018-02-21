@@ -37,7 +37,7 @@ Invoke
 ![](base.png) ![](meteoro.png)  
 ![](energia.png) ![](voador.png)  
 
-## Animações
+## Aleatoriedades
 Essa foi uma animação que fiz de Pixel Arte, achei legal :v  
 ![](aniPixel.png)
 
