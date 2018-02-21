@@ -17,7 +17,7 @@ telefone: (084) 9 9204-4778
 Bom Apetite.
 [![](bomapetite.png)](https://lucas-manolo.github.io/Bom%20Apetite!/) 
 Óculos que tudo vê  
-[![](tela2)](https://lucas-manolo.github.io/Óculos%20que%20tudo%20vê/) 
+[![](tela2.jpg)](https://lucas-manolo.github.io/%C3%93culos%20que%20tudo%20v%C3%AA/)
 Invoke  
 [![](invoke.png)](https://lucas-manolo.github.io/Invoke/)
 
@@ -26,7 +26,7 @@ Invoke
 ## Artes
 * * *
 **algumas artes do primeiro jogo**    
-![](login.png) ![](fim.png)   
+![](fim.png)   
 ![](Pizza_deLado.png) ![](milho.png) ![](sushi.png)
 * * *
 **algumas artes do segundo jogo**  
