@@ -9,7 +9,8 @@ layout: default
 Sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vida. Curso o 3º ano de Jogos Digitais.Tento fazer algumas **ARTES** para a disciplina de Oficina, porém, nunca sai como planejado(acho que é porque falta um pouco de **chanfro**).  
 * * *
 ### contatos  
-email: jv12345592@gmail.com    
+email: jv12345592@gmail.com  
+[twitter](https://twitter.com/Jvictor923)
 
 * * *
 # Produções
