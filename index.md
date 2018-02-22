@@ -42,7 +42,7 @@ Ataque dos Vírus
 Essa foi uma animação que fiz de Pixel Art, achei legal :v  
 ![](aniPixel.png)  
 ![](robô)
-[[email]](jv12345692@gmail.com)  
+[[email]](https://mail.google.com/mail/u/0/#inbox)  
 
 * * *
 ** negrito  
