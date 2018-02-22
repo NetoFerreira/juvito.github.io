@@ -8,7 +8,7 @@ layout: default
 ![](jv1.png) **_créditos ao meu brodi Neto, tmj <3_**  
 Sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vida. Curso o 3º ano de Jogos Digitais.Tento fazer algumas artes para a disciplina de Oficina, nunca sai como planejado(acho que é porque falta um pouco de **chanfro**).  
 email: jv12345592@gmail.com  
-telefone: (084) 9 9204-4778  
+
 
 # Produções
 
