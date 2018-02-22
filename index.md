@@ -41,8 +41,9 @@ Ataque dos Vírus
 ## Aleatoriedades
 Essa foi uma animação que fiz de Pixel Art, achei legal :v  
 ![](aniPixel.png)  
-![](robô)
-[[email]](https://mail.google.com/mail/u/0/#inbox)  
+Essa foi uma das aventuras na disciplina de Multimidia(não recomendo, principalmente se você fazer se tiver coração fraco). O objetivo era fazer animações com imagens autorais.  
+![](robô.png)  
+ 
 
 * * *
 ** negrito  
