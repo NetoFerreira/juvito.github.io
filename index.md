@@ -5,7 +5,7 @@ layout: default
 # Meu Portifolio
 
 # Quem sou eu?  
-![](jv1.png) **_créditos ao meu brodi Neto, tmj <3_**  
+![](jv1.png) **créditos ao meu brodi Neto, tmj <3**  
 Sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vida. Curso o 3º ano de Jogos Digitais.Tento fazer algumas artes para a disciplina de Oficina, nunca sai como planejado(acho que é porque falta um pouco de **chanfro**).  
 email: jv12345592@gmail.com  
 
@@ -39,10 +39,11 @@ Ataque dos Vírus
 * * * 
 
 ## Aleatoriedades
-Essa foi uma animação que fiz de Pixel Art, achei legal :v  
+Essa foi uma animação que fiz de Pixel Art.Achei legal :v  
 ![](aniPixel.png)  
 Essa foi uma das aventuras na disciplina de Multimidia(não recomendo, principalmente se você fazer se tiver coração fraco). O objetivo era fazer animações com imagens autorais.  
 ![](robô.png)  
+
  
 
 * * *
