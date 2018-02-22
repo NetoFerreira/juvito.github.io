@@ -10,7 +10,7 @@ Sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vid
 * * *
 ### contatos  
 email: jv12345592@gmail.com  
-[![](tt.png)](https://twitter.com/Jvictor923)
+[![](tt.png)](https://twitter.com/Jvictor923) [![](pinterest.png)](https://br.pinterest.com/jv12345692/)
 
 * * *
 # Produções
