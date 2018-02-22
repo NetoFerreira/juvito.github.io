@@ -20,8 +20,6 @@ Bom Apetite.
 [![](tela2.jpg)](https://lucas-manolo.github.io/%C3%93culos%20que%20tudo%20v%C3%AA/)
 Invoke  
 [![](invoke.png)](https://lucas-manolo.github.io/Invoke/)  
-Ataque dos Vírus  
-[![](tela-começo.png)]()
 
 ## Artes
 * * *
