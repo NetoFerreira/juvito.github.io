@@ -6,7 +6,7 @@ layout: default
 
 # Quem sou eu?  
 ![](jv1.png) **_créditos ao meu brodi Neto, tmj <3_**  
-sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vida. Curso o 3º ano de Jogos Digitais.  
+sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vida. Curso o 3º ano de Jogos Digitais.Tento fazer algumas artes para a disciplina de Oficina, nunca sai como planejado(acho que é porque falta um pouco de **chanfro**).  
 email: jv12345592@gmail.com  
 telefone: (084) 9 9204-4778  
 
@@ -21,9 +21,7 @@ Bom Apetite.
 Invoke  
 [![](invoke.png)](https://lucas-manolo.github.io/Invoke/)  
 Ataque dos Vírus  
-[![]()]()
-
-
+[![](tela-começo.png)]()
 
 ## Artes
 * * *
@@ -37,11 +35,13 @@ Ataque dos Vírus
 * * *
 **algumas artes do terceiro jogo**  
 ![](base.png) ![](meteoro.png)  
-![](energia.png) ![](voador.png)  
+![](energia.png) ![](voador.png) 
+* * * 
 
 ## Aleatoriedades
-Essa foi uma animação que fiz de Pixel Arte, achei legal :v  
-![](aniPixel.png)
+Essa foi uma animação que fiz de Pixel Art, achei legal :v  
+![](aniPixel.png)  
+![](robô)
 
 * * *
 ** negrito  
