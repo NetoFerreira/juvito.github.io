@@ -5,7 +5,7 @@ layout: default
 # Meu Portifolio
 
 # Quem sou eu?  
-![](jv.png) **_créditos ao meu brodi Neto, tmj <3_**  
+![](jv1.png) **_créditos ao meu brodi Neto, tmj <3_**  
 sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vida. Curso o 3º ano de Jogos Digitais.  
 email: jv12345592@gmail.com  
 telefone: (084) 9 9204-4778  
@@ -19,7 +19,9 @@ Bom Apetite.
 Óculos que tudo vê  
 [![](tela2.jpg)](https://lucas-manolo.github.io/%C3%93culos%20que%20tudo%20v%C3%AA/)
 Invoke  
-[![](invoke.png)](https://lucas-manolo.github.io/Invoke/)
+[![](invoke.png)](https://lucas-manolo.github.io/Invoke/)  
+Ataque dos Vírus  
+[![]()]()
 
 
 
