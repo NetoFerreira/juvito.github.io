@@ -6,13 +6,15 @@ layout: default
 
 # Quem sou eu?  
 ![](jv1.png) **créditos ao meu brodi Neto, tmj <3**  
-Sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vida. Curso o 3º ano de Jogos Digitais.Tento fazer algumas artes para a disciplina de Oficina, nunca sai como planejado(acho que é porque falta um pouco de **chanfro**).  
+Sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vida. Curso o 3º ano de Jogos Digitais.Tento fazer algumas **ARTES** para a disciplina de Oficina, porém, nunca sai como planejado(acho que é porque falta um pouco de **chanfro**).  
+* * *
+###contatos
 email: jv12345592@gmail.com  
 
-
+* * *
 # Produções
 
-## Games
+## Jogos
 **Esses são alguns jogos que fiz, juntamente com alguns colegas.**  
 Bom Apetite.
 [![](bomapetite.png)](https://lucas-manolo.github.io/Bom%20Apetite!/) 
