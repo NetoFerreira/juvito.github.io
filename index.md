@@ -40,7 +40,8 @@ Invoke
 Essa foi uma animação que fiz de Pixel Art.Achei legal :v  
 ![](aniPixel.png)  
 Essa foi uma das aventuras na disciplina de Multimidia(não recomendo, principalmente se você fazer se tiver coração fraco). O objetivo era fazer animações com imagens autorais.  
-![](robô.png) ![](robô-correndo.gif)
+![](robô.png)  
+![](robô-alto.png) ![](robô-correndo.gif)
 
  
 
