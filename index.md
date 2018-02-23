@@ -24,7 +24,7 @@ Bom Apetite.
 Invoke  
 [![](invoke.png)](https://lucas-manolo.github.io/Invoke/)  
 
-## Artes
+## Artes  
 * * *
 **algumas artes do primeiro jogo**    
 ![](fim.png)   
@@ -47,15 +47,5 @@ Essa foi uma das aventuras na disciplina de Multimidia(não recomendo, principal
 ![](robô-alto.png) ![](robô-correndo.gif)  
 e.e  
 ![](olho1.gif)
- 
-
 * * *
-** negrito  
-_ _ italico  
-~~ traço no nome  
-  dois espaços para pular linha.  
-  3* com espaçamento entre eles, irá acarretar em uma linha na horizontal.  
-  #'s criam capítulos ou sub. ( e o número de hashtags irá influênciar no tamanho da fonte)  
-  *s adiciona uma lista n numerda.  
-  Nº adiciona uma lista numerada.  
-  * * *
+
