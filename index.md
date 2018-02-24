@@ -17,15 +17,15 @@ email: jv12345592@gmail.com
 
 ## Jogos
 **Esses são alguns jogos que fiz, juntamente com alguns colegas.**  
-Bom Apetite.
+_Bom Apetite_
 [![](bomapetite.png)](https://lucas-manolo.github.io/Bom%20Apetite!/) 
-Óculos que tudo vê  
+_Óculos que tudo vê._  
 [![](tela2.jpg)](https://lucas-manolo.github.io/%C3%93culos%20que%20tudo%20v%C3%AA/)
-Invoke  
+_Invoke._  
 [![](invoke.png)](https://lucas-manolo.github.io/Invoke/)  
 
 ## Artes  
-**a maioria dessas artes, foi feita na disciplina de Oficina (disciplina essa voltada para a o desenvolvimento de jogos).**  
+**a maioria dessas artes, foi feita na disciplina de Oficina (disciplina essa, voltada para a o desenvolvimento de jogos).**  
 * * *
 **algumas artes do primeiro jogo**    
 ![](fim.png)   
