@@ -25,7 +25,7 @@ _Invoke._
 [![](invoke.png)](https://lucas-manolo.github.io/Invoke/)  
 
 ## Artes  
-**a maioria dessas artes, foi feita na disciplina de Oficina (disciplina essa, voltada para a o desenvolvimento de jogos).**  
+**a maioria dessas artes, foi feita na disciplina de Oficina (disciplina essa, voltada para o desenvolvimento de jogos).**  
 * * *
 **algumas artes do primeiro jogo**    
 ![](fim.png)   
