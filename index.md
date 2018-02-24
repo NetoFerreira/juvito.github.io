@@ -6,9 +6,9 @@ layout: default
 
 # Quem sou eu?  
 ![](jv1.png) **créditos ao meu brodi Neto, tmj <3**  
-Sou um estudante do IFRN ( Campus Ceará-mirim ) que não sei o que fazer da vida. Curso o 3º ano de Jogos Digitais.Tento fazer algumas **ARTES** para a disciplina de Oficina, porém, nunca sai como planejado(acho que é porque falta um pouco de **chanfro**).  
+Sou um estudante do IFRN ( Campus Ceará-mirim ) que não sabe o que fazer da vida profissional. Curso o 3º ano de Jogos Digitais.Tento fazer algumas **ARTES** para a disciplina de Oficina, porém, nunca sai como planejado(acho que é porque falta um pouco de **chanfro**).  
 * * *
-### contatos  
+### contato  
 email: jv12345592@gmail.com  
 [![](tt.png)](https://twitter.com/Jvictor923) [![](pinterest.png)](https://br.pinterest.com/jv12345692/)
 
@@ -43,7 +43,7 @@ _Invoke._
 ## Aleatoriedades
 Essa foi uma animação que fiz de Pixel Art.Achei legal :v  
 ![](aniPixel.png)  
-Essa foi uma das aventuras na disciplina de Multimidia(não recomendo, principalmente se você fazer se tiver coração fraco). O objetivo era fazer animações com imagens autorais.  
+Essa foi uma das aventuras na disciplina de Multimidia(não recomendo, principalmente se você tiver coração fraco). O objetivo era fazer animações com imagens autorais.  
   
 ![](robô-alto.png) ![](robô-correndo.gif)  
 e.e  
